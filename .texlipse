@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Thu Aug 08 21:43:51 BRT 2013
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=document.tex
+outputFile=estagio.pdf
+langSpell=pt
+markDer=true
+srcDir=
