@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.8.8)  10 AUG 2013 18:49
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.8.8)  13 AUG 2013 15:53
 entering extended mode
 **document.tex
 (C:\Users\wesley\git\Estagio_Supervisionado_I\document.tex
@@ -122,17 +122,17 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 ]) [3]
 (C:\Users\wesley\git\Estagio_Supervisionado_I\procedimentos_metodologicos.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 8.
+(Font)              <12> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
+(Font)              <8> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
+(Font)              <6> on input line 35.
 )
 [4
 
 
-] (C:\Users\wesley\git\Estagio_Supervisionado_I\consideracoes_finais.tex)
-[5
+] [5] (C:\Users\wesley\git\Estagio_Supervisionado_I\consideracoes_finais.tex) [
+6
 
 
 ] (C:\Users\wesley\git\Estagio_Supervisionado_I\document.aux
@@ -142,7 +142,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Here is how much of TeX's memory you used:
  978 strings out of 493921
  13691 string characters out of 3144874
- 65910 words of memory out of 3000000
+ 69910 words of memory out of 3000000
  4284 multiletter control sequences out of 15000+200000
  8808 words of font info for 31 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -152,9 +152,9 @@ rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on document.pdf (5 pages, 62089 bytes).
+Output written on document.pdf (6 pages, 66727 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
